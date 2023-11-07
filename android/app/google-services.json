@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498549669670",
+    "project_id": "rn-media-gallery",
+    "storage_bucket": "rn-media-gallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498549669670:android:347ac58ee99a3abba3cbe7",
+        "android_client_info": {
+          "package_name": "com.vezhdelit.rnmediagallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498549669670-gle9s6r09r4i2eamrtq4dujnl39tv0a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vezhdelit.rnmediagallery",
+            "certificate_hash": "92ff6464edc269659517985f47957ae44523af00"
+          }
+        },
+        {
+          "client_id": "498549669670-nbjv0ibeiap1ar12skatp0chqfi0kmg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vezhdelit.rnmediagallery",
+            "certificate_hash": "284cd0a4d2cb49c330d3942348f799e70618eb1e"
+          }
+        },
+        {
+          "client_id": "498549669670-92t97pmd31hp9v64a1tn7cf549u5ufgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQj3bsQ2B_P9OvcVFQJV7D5lOrgWc4NuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498549669670-92t97pmd31hp9v64a1tn7cf549u5ufgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

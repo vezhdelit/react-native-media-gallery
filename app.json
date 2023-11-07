@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "rn-media-gallery",
+
     "slug": "rn-media-gallery",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -11,20 +12,26 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vezhdelit.rnmediagallery"
     },
+    "plugins": ["@react-native-google-signin/google-signin"],
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "360dfe08-0a2b-4cad-bfb6-feb7cb5d014b"
+      }
     }
   }
 }
